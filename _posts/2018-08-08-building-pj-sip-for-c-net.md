@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "The first mass-produced book to deviate from a rectilinear format"
+title:  "Building pjsip 2.7.2 for c# .net"
 author: weslley
 categories: [ .Net, tutorial ]
-image: assets/images/17.jpg
+image: 
 ---
-### 10:35 08/08/2018 : weslley luiz 
+### Building pjsip for c# .net
 Hello readers, im recording in this gist steps maded by myself for the building of pjsip stack 
 Im compiling the stack available on [PjSip]http://pjsip.org/ 
 
