@@ -1,4 +1,4 @@
-# Weslley'S Gists
+# Weslley's Gists
 This repository is used to store all daily issues in my development studies
  
 
